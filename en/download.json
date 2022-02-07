@@ -41,7 +41,8 @@
     "ennuizel_confirm": "I understand.",
     "ennuizel_dont_show": "Don't show this again",
     "delete_rec": "Are you sure you want to delete this recording? This action is IRREVERSABLE and nobody can help you get it back.",
-    "enter_del_key": "Enter the delete key here:"
+    "enter_del_key": "Enter the delete key here:",
+    "download_processing": "Download starting to process…"
   },
   "sections": {
     "dl": "Downloads",
