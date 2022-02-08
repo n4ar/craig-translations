@@ -6,6 +6,7 @@
   "cancel": "Cancel",
   "delete": "Delete",
   "reveal": "Reveal",
+  "still_downloading": "You still have a recording being downloaded! The download will still continue if you leave, but you won't be able to view the progress or do another download until the current one finishes.",
   "info": {
     "users": "Users",
     "rec_id": "Recording ID",
