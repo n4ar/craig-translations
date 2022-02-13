@@ -1,5 +1,5 @@
 {
-    "_local_name": "toki pona",
+    "_local_name": "Toki Pona",
     "download": {
         "movpngsfxu": "(insa li nasin PNG, ilo li tawa nasin Unix)",
         "movsfxu": "(insa li nasin QuickTime, ilo li tawa nasin Unix)",
@@ -79,7 +79,7 @@
     "processing": "ilo li nasin e kalama…",
     "close": "pona",
     "info": {
-        "behalf": "tan wile pi jan ni:",
+        "behalf": "tan wile pi jan ni",
         "delete_rec": "o weka e kalama lon tenpo ni",
         "duration": "kalama li tenpo suli ni",
         "channel": "kalama li lon tomo ni",
