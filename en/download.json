@@ -31,7 +31,8 @@
         "delete_rec": "Delete recording?",
         "ennuizel": "Beware of the red buttons!",
         "duration_fail": "Failed to get the duration of the recording!",
-        "download_fail": "Download failed!"
+        "download_fail": "Download failed!",
+        "download_done": "Your download is ready!"
     },
     "modal_content": {
         "duration_fail": "Failed to get the duration of the recording!",
@@ -45,7 +46,10 @@
         "ennuizel_dont_show": "Don't show this again",
         "delete_rec": "Are you sure you want to delete this recording? This action is IRREVERSABLE and nobody can help you get it back.",
         "enter_del_key": "Enter the delete key here:",
-        "download_processing": "Download starting to process…"
+        "download_processing": "Download starting to process…",
+        "download": "Download",
+        "download_done": "Your download has finished processing and should prompt to download shortly! If you did not get prompted to download your recording, click the button below.",
+        "download_already_done": "Your download was already processed for this format and should prompt to download shortly! If you did not get prompted to download your recording, click the button below."
     },
     "sections": {
         "dl": "Downloads",
