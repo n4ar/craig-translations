@@ -74,7 +74,8 @@
         "delete_rec": "sina wile ala wile weka e kalama? kalama li weka la ona li weka lon tenpo ALE a. jan ala li ken kama sin e ona.",
         "ennuizel_dont_show": "o toki ala e ni lon tenpo kama",
         "ennuizel_confirm": "mi sona.",
-        "ennuizel_mobile": "ilo sina li lili a! pali ni li wile e ilo suli. ilo lili li pona ala tawa pali ni. pakala li kama tan ni la o mu ala tawa jan pali ilo!"
+        "ennuizel_mobile": "ilo sina li lili a! pali ni li wile e ilo suli. ilo lili li pona ala tawa pali ni. pakala li kama tan ni la o mu ala tawa jan pali ilo!",
+        "download": "o pana e kalama"
     },
     "processing": "ilo li nasin e kalama…",
     "close": "pona",
@@ -110,7 +111,8 @@
         "ennuizel": "nena loje li nasa!",
         "delete_rec": "kalama o weka ala weka?",
         "error": "ilo li pakala.",
-        "general": "ijo"
+        "general": "ijo",
+        "download_done": "ilo li kama ken pana e kalama tawa sina!"
     },
     "footer": {
         "build": "ilo li sin nanpa",
