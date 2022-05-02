@@ -14,7 +14,7 @@
         "expires": "Die Aufzeichnung läuft in {{expire}} ab.",
         "delete_rec": "Aufnahme löschen",
         "req_by": "Angefordert von",
-        "started": "Fing an bei",
+        "started": "Aufnahme gestartet",
         "behalf": "im Auftrag von",
         "rec_id": "Aufnahmen ID",
         "server": "Server"
@@ -92,7 +92,8 @@
         "1103": "Ungültige Hintergrundfarbe.",
         "1104": "Ungültige Vordergrundfarbe.",
         "1102": "Ungültiger Container.",
-        "2001": "Du sendest zu viele Anfrage. Bitte versuche es später nochmal."
+        "2001": "Du sendest zu viele Anfrage. Bitte versuche es später nochmal.",
+        "1010": "Das PNG-Format kann lediglich als ZIP-Datei exportiert werden."
     },
     "processing": "Wird bearbeitet…",
     "glowers": {
