@@ -26,7 +26,8 @@
         "continuous": "Kontinuierlich",
         "connectedAs": "Verbunden als",
         "noUsersConnected": "Keine Benutzer verbunden…",
-        "viaWeb": "(über die Webapp)"
+        "viaWeb": "(über die Webapp)",
+        "microphone": "Mikrofon"
     },
     "onboarding": {
         "errors": {
