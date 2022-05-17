@@ -68,7 +68,8 @@
     "continuous": "Continuous",
     "mute": "Mute",
     "unmute": "Unmute",
-    "disconnect": "Disconnect"
+    "disconnect": "Disconnect",
+    "microphone": "Microphone"
   },
   "modal": {
     "disconnected": "Disconnected.",
