@@ -28,7 +28,8 @@
         "stsm": "Mezcla en una pista (Mezcla inteligente)",
         "mt_other": "Multi-pista (otros formatos)",
         "local": "Procesamiento local",
-        "misc": "Variado"
+        "misc": "Variado",
+        "glowers": "Superposiciones de Avatares"
     },
     "download": {
         "audacity": "Proyecto de Audacity",
