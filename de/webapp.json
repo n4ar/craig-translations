@@ -82,8 +82,6 @@
         }
     },
     "server": {
-        "giarc": "Giarc",
-        "craig": "Craig / Alistair",
         "custom": "Benutzerdefiniert",
         "local": "Lokal"
     },

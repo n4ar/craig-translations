@@ -5,9 +5,7 @@
   "in": "in",
   "server": {
     "local": "Local",
-    "custom": "Custom",
-    "craig": "Craig / Alistair",
-    "giarc": "Giarc"
+    "custom": "Custom"
   },
   "options": {
     "flac": {

@@ -83,8 +83,6 @@
         }
     },
     "server": {
-        "giarc": "Giarc",
-        "craig": "Craig / Alistair",
         "custom": "Пользовательский",
         "local": "Локальный"
     },
