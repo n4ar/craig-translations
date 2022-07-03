@@ -7,7 +7,10 @@
         "other_formats": "Autres formats",
         "glowers": "Overlay d'avatars",
         "avatars": "Avatars",
-        "dl": "Téléchargements"
+        "dl": "Téléchargements",
+        "misc": "Autres",
+        "local": "Traitement local",
+        "mtsl": "Multi-pistes Smart Mix"
     },
     "modal_content": {
         "download_already_done": "Ton téléchargement a déjà été traité dans ce format et tu vas rapidement être invité à le télécharger ! Si tu n'y a pas été invité, clique sur le bouton dessous.",
@@ -32,7 +35,8 @@
         "duration_fail": "Erreur lors de la récupération du temps de l'enregistrement !",
         "ennuizel": "Fais attention aux boutons rouges !",
         "delete_rec": "Supprimer l'enregistrement ?",
-        "error": "Une erreur est survenue."
+        "error": "Une erreur est survenue.",
+        "general": "Modal"
     },
     "footer": {
         "build": "Version",
@@ -59,5 +63,67 @@
     "downloading": "Téléchargement…",
     "loading": "Chargement…",
     "craig_rec": "Enregistrement de Craig",
-    "_local_name": "Anglais"
+    "_local_name": "Anglais",
+    "download": {
+        "info": "Info",
+        "raw": "RAW",
+        "unix": "Script Unix",
+        "mac": "Application Mac OS X",
+        "win": "Application Windows",
+        "other": "Autre",
+        "alac": "(Apple sans perte)",
+        "audacity": "Projet Audacity",
+        "movpngsfxu": "(PNG, extracteur Unix)",
+        "movsfxu": "(Animation QuickTime, extracteur Unix)",
+        "movpngsfxm": "(PNG, extracteur Mac OS X)",
+        "movsfxm": "(Animation QuickTime, extracteur Mac OS X)",
+        "movpngsfx": "(PNG, extracteur Windows)",
+        "movsfx": "(Animation QuickTime, extracteur Windows)",
+        "unsup": "(non supporté)"
+    },
+    "ms": {
+        "y_other": "{{count}} années",
+        "y_one": "{{count}} année",
+        "d_other": "{{count}} jours",
+        "d_one": "{{count}} jour",
+        "h_other": "{{count}} heures",
+        "h_one": "{{count}} heure",
+        "m_other": "{{count}} minute",
+        "m_one": "{{count}} minute",
+        "s_other": "{{count}} secondes",
+        "s_one": "{{count}} seconde",
+        "ms_other": "{{count}} millisecondes",
+        "ms_one": "{{count}} milliseconde"
+    },
+    "error": {
+        "2001": "Tu envoies trop de requêtes. Réessaie plus tard.",
+        "1104": "Couleur d'avant plan invalide.",
+        "1103": "Couleur de fond invalide.",
+        "1102": "Conteneur invalide.",
+        "1101": "Format invalide.",
+        "1010": "Le format PNG ne peut pas avoir un conteneur autre que le ZIP.",
+        "1009": "L'enregistrement n'a pas la fonction Smart Mix activée.",
+        "1008": "L'enregistrement n'a pas l'overlay d'avatars activé.",
+        "1007": "L'enregistrement n'a pas la fonctionnalité MP3 activée.",
+        "1006": "L'enregistrement est déjà en train d'être traité ! Réessaie plus tard.",
+        "1005": "Clé de suppression invalide.",
+        "1004": "L'enregistrement a été supprimé.",
+        "1003": "Enregistrement non trouvé.",
+        "1002": "Clé invalide.",
+        "1001": "ID invalide.",
+        "no_del_key": "Veuillez saisir une clé de suppression.",
+        "unknown": "Une erreur inconnue est survenue."
+    },
+    "glowers": {
+        "format_desc": {
+            "webmvp8": "WebM supporte la transparence, mais la plupart des éditeurs vidéos ne supporte pas WebM.",
+            "mkvh264": "MPEG-4 ne supporte pas la transparence, donc une image PNG statique et un MKV représentant le canal alpha (transparence) seront envoyés. La plupart des éditeurs vidéo peuvent utiliser un fichier pour la couleur et un autre pour le canal alpha (transparence).",
+            "mov": "MOV supporte la transparence et est largement pris en charge par les éditeurs vidéo, mais il est beaucoup trop volumineux pour être généré et envoyé directement. À la place, vous recevrez des fichiers compressés et un extracteur. Le MOV peut contenir des animations QuickTime ou PNG ; certains éditeurs vidéo prennent en charge l'un ou l'autre, et d'autres les deux, mais ils sont fonctionnellement équivalents."
+        },
+        "fg_color": "Couleur de l'éclat",
+        "bg_color": "Couleur de fond",
+        "transparent_bg": "Fond transparent",
+        "download": "Télécharger",
+        "format": "Format"
+    }
 }
