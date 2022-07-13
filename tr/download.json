@@ -79,7 +79,9 @@
     "sections": {
         "other_formats": "Diğer formatlar",
         "avatars": "Profil Fotoğrafları",
-        "dl": "İndirilenler"
+        "dl": "İndirilenler",
+        "glowers": "Profil Fotoğrafı Görünümleri",
+        "mt": "Çoklu-Parça"
     },
     "footer": {
         "build": "Sürüm"
