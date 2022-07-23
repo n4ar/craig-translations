@@ -27,7 +27,8 @@
         "microphone": "Mikrofon",
         "disconnect": "Bağlantıyı Kes",
         "unmute": "Susturmayı Kaldır",
-        "mute": "Sustur"
+        "mute": "Sustur",
+        "connectedAs": "Kayıt alan kişi"
     },
     "in": "'na, serverindeki",
     "login": {
