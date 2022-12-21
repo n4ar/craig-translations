@@ -2,7 +2,7 @@
     "modal": {
         "duration_fail": "Kaydın uzunluğunu bulamıyorum!",
         "ennuizel": "Kırmızı tuşlara dikkat et!",
-        "general": "Kip (Ekleri)",
+        "general": "Modal",
         "download_done": "İndirme hazır!",
         "download_fail": "Yükleme tamamlanamadı!",
         "delete_rec": "Kaydı sil?",
@@ -29,7 +29,13 @@
         "audacity": "Audacity Projesi",
         "info": "Bilgi",
         "raw": "Raw",
-        "other": "Diğer"
+        "other": "Diğer",
+        "movsfxu": "(QuickTime Animasyonu, Unix Ayıklayıcı)",
+        "alac": "(Apple Kayıpsız)",
+        "unix": "Unix Scripti",
+        "unsup": "(desteklenmez)",
+        "movsfx": "(QuickTime Animasyonu, Windows Ayıklayıcısı)",
+        "movsfxm": "(QuickTime Animasyonu, Mac OS X Ayıklayıcı)"
     },
     "modal_content": {
         "enter_del_key": "Silme kodunu buraya gir:",
@@ -40,7 +46,13 @@
         "download_avatar_fail": "Profil fotoğraflarını indirme başarısız.",
         "download_fail": "{{format}} formatında indirme başarısız.",
         "downloading_avatar": "Profil fotoğrafları indiriliyor…",
-        "downloading": "{{format}} formatında indiriliyor…"
+        "downloading": "{{format}} formatında indiriliyor…",
+        "ennuizel": "Dışında kırmızı bir çerçeve olan butonlar tarayıcın içinde Ennuizel kullanarak ses işleme gerektirmektedir. Tarayıcınıza bağlı olarak, kaydınızı işlemek desteklenmiyor veya iyi bir miktarda RAM kullanıyor olabilir. Eğer herhangi bir sorununuz varsa lütfen farklı bir format seçiniz.",
+        "download_done": "İndirme işleminiz tamamlandı ve kısa bir süre içinde başlayacaktır. Kaydınızı hâlâ indirilmeye başlamadıysa, lütfen aşağıdaki butona tıklayın.",
+        "duration_fail": "Kayıt uzunluğu alınamadı!",
+        "ennuizel_mobile": "Görünüşe göre mobil bir cihaz kullanıyorsun. Bu işlemi bilgisayar üzerinden yapmanı öneririz. Lütfen herhangi bir sorun ile karşılaşırsan bizi şikayet etme.",
+        "delete_rec": "Bu kaydı silmek istediğine emin misin? Bu işlem GERİ ALINAMAZ ve kimse işlemi geri almanda sana yardımcı olamaz.",
+        "download_already_done": "Kaydınız bu format için işlendi ve kısa bir süre içinde indirilmeye başlayacak. Eğer kaydınız hâlâ indirmeye başlamadıysa, lütfen aşağıdaki butona tıklayın."
     },
     "glowers": {
         "transparent_bg": "Transparan Arkaplan",
@@ -50,13 +62,13 @@
         "format": "Format"
     },
     "info": {
-        "req_by": "Kaydı Alan Kişi",
-        "behalf": "tarafından",
+        "req_by": "Kayıt Sahibi",
+        "behalf": "Tarafından",
         "delete_rec": "Kaydı Sil",
         "duration": "Süre",
         "channel": "Ses Kanalı",
         "server": "Sunucu",
-        "expires": "Kayıt {{expire}} tarihinde kullanılmaz olacak.",
+        "expires": "Kayıt {{expire}} sonra kullanılmaz olacak.",
         "started": "Başlama Zamanı",
         "rec_id": "Kayıt ID'si",
         "users": "Kullanıcılar"
@@ -81,7 +93,13 @@
         "avatars": "Profil Fotoğrafları",
         "dl": "İndirilenler",
         "glowers": "Profil Fotoğrafı Görünümleri",
-        "mt": "Çoklu-Parça"
+        "mt": "Çoklu-Parça",
+        "st": "Karışık Tek-Parça",
+        "stsm": "Akıllı Karıştırılmış Tekli-Parça",
+        "mt_other": "Çoklu Parça (diğer formatlar)",
+        "mtsl": "Çoklu-Parça (akıllı sıralama)",
+        "local": "Yerel işleme",
+        "misc": "Diğer Çeşitler"
     },
     "footer": {
         "build": "Sürüm"
@@ -93,5 +111,6 @@
     "close": "Kapat",
     "downloading": "Yükleniyor…",
     "loading": "Yükleniyor…",
-    "_local_name": "Türkçe"
+    "_local_name": "Türkçe",
+    "still_downloading": "Kaydınız hâlen indiriliyor. İndirme işlemi çıkmanız halinde devam edecektir fakat kayıt indirme sürecini göremeyecek veya şu an indirilen kayıt bitene kadar başka bir indirme işlemi yapamayacaksınız."
 }
