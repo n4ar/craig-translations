@@ -1,1 +1,73 @@
-{}
+{
+    "still_downloading": "Je opname wordt gedownload. Deze zal doorgaan als je deze weg gaat, maar je kan de voortgang niet bekijken of een andere download starten totdat deze is voltooid.",
+    "modal_content": {
+        "duration_fail": "Het is niet gelukt om de duur van de opname te krijgen!",
+        "ennuizel": "Knoppen die een rode rand hebben, moeten de audio verwerken in je browser door gebruik te maken van Ennuizel. Op basis van je browser, kan dit niet werken of gebruikt dit een groot deel van je RAM om door je audio heen te gaan. Als je problemen hebt, kies een ander formaat.",
+        "download_done": "Je download is verwerkt en zou je zo moeten vragen om het te downloaden! Als je geen melding gekregen hebt om je opname te downloaden, klik de knop hier beneden.",
+        "ennuizel_mobile": "Het lijkt erop dat je op een mobiel apparaat zit! Het is HEEL ERG geadviseerd om dit te doen op een computer, ga niet bij ons klagen als je problemen hebt.",
+        "downloading": "Aan het downloaden in het {{format}} formaat…",
+        "downloading_avatar": "Downloaden van avatars…",
+        "download_fail": "Het is niet gelukt om de download in het {{format}} formaat krijgen.",
+        "download_avatar_fail": "Het is niet gelukt om de avatars te downloaden.",
+        "ennuizel_confirm": "Ik snap het.",
+        "ennuizel_dont_show": "Laat dit niet nog eens zien",
+        "delete_rec": "Weet je het zeker dat je deze opname wilt verwijderen? Deze actie is NIET TERUGDRAAIBAAR en niemand kan je helpen om het terug te krijgen.",
+        "enter_del_key": "Vul de verwijder sleutel hier in:",
+        "download_processing": "Download word verwerkt…",
+        "download": "Download",
+        "download_already_done": "Je download is al verwerkt voor dit formaat en zou je moeten melden om het te downloaden! Als je geen melding gekregen hebt om je opname te downloaden, klik de knop hier benenden."
+    },
+    "_local_name": "Nederlands",
+    "craig_rec": "Craig Opname",
+    "loading": "Laden…",
+    "downloading": "Downloaden…",
+    "processing": "Aan het verwerken…",
+    "close": "Sluiten",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "reveal": "Laten zien",
+    "info": {
+        "users": "Gebruikers",
+        "rec_id": "Opname ID",
+        "req_by": "Aangevraagd door",
+        "started": "Gestart om",
+        "behalf": "namens",
+        "expires": "Opname verloopt in {{expire}}.",
+        "server": "Server",
+        "channel": "Kanaal",
+        "duration": "Duur",
+        "delete_rec": "Verwijder Opname"
+    },
+    "footer": {
+        "showing_hidden": "(verborgen tonen)",
+        "build": "Versie"
+    },
+    "modal": {
+        "general": "Modaal",
+        "error": "Er is een fout opgetreden.",
+        "delete_rec": "Verwijder opname?",
+        "ennuizel": "Let op de rode knop!",
+        "duration_fail": "Het is niet gelukt om de duur van de opname te krijgen!",
+        "download_fail": "Download mislukt!",
+        "download_done": "Je download is klaar!"
+    },
+    "sections": {
+        "dl": "Downloads",
+        "avatars": "Avatars",
+        "glowers": "Avatar-overlays",
+        "other_formats": "Andere formaten",
+        "mt": "Multi-lijns",
+        "st": "Enkel-lijns gemixed",
+        "stsm": "Enkel-lijns Slimme Mix",
+        "mt_other": "Multi-lijns (Andere formaten)",
+        "mtsl": "Multi-lijns slim-geleveled",
+        "local": "Lokale Verwerking",
+        "misc": "Overig"
+    },
+    "download": {
+        "audacity": "Audacity Project",
+        "alac": "(Apple Lossless)",
+        "other": "Andere",
+        "win": "Windows Applicatie"
+    }
+}
