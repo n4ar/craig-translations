@@ -47,7 +47,7 @@
         "download_fail": "{{format}} formatında indirme başarısız.",
         "downloading_avatar": "Profil fotoğrafları indiriliyor…",
         "downloading": "{{format}} formatında indiriliyor…",
-        "ennuizel": "Dışında kırmızı bir çerçeve olan butonlar tarayıcın içinde Ennuizel kullanarak ses işleme gerektirmektedir. Tarayıcınıza bağlı olarak, kaydınızı işlemek desteklenmiyor veya iyi bir miktarda RAM kullanıyor olabilir. Eğer herhangi bir sorununuz varsa lütfen farklı bir format seçiniz.",
+        "ennuizel": "Kırmızı bir çerçevesi olan butonlar tarayıcın içinde Ennuizel kullanarak ses işleme gerektirmektedir. Tarayıcınıza bağlı olarak, kaydınızı işlemek desteklenmiyor veya iyi bir miktarda RAM kullanıyor olabilir. Eğer herhangi bir sorununuz varsa lütfen farklı bir format seçiniz.",
         "download_done": "İndirme işleminiz tamamlandı ve kısa bir süre içinde başlayacaktır. Kaydınızı hâlâ indirilmeye başlamadıysa, lütfen aşağıdaki butona tıklayın.",
         "duration_fail": "Kayıt uzunluğu alınamadı!",
         "ennuizel_mobile": "Görünüşe göre mobil bir cihaz kullanıyorsun. Bu işlemi bilgisayar üzerinden yapmanı öneririz. Lütfen herhangi bir sorun ile karşılaşırsan bizi şikayet etme.",
