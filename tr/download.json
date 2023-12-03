@@ -18,24 +18,27 @@
         "1003": "Kayıt bulunamadı.",
         "1101": "Geçersiz format.",
         "1002": "Geçersiz kod.",
-        "1001": "Geçersiz ID."
+        "1001": "Geçersiz ID.",
+        "1006": "Bu kayıt zaten işleniyor! Lütfen daha sonra tekrar deneyeniz.",
+        "1007": "Bu kayıt MP3 uzantılı işlemler için gerekli özelliğe sahip değil.",
+        "1009": "Bu kayıt Smart Mix için gerekli özelliğe sahip değil."
     },
     "download": {
-        "movpngsfxm": "(PNG, Mac OS X çıkışlı)",
+        "movpngsfxm": "(PNG, Mac OS X Ayıklayıcısı)",
         "mac": "Mac OS X Uygulaması",
-        "movpngsfx": "(PNG, Windows çıkışlı)",
-        "movpngsfxu": "(PNG, Unix çıkışlı)",
+        "movpngsfx": "(PNG, Windows Ayıklayıcısı)",
+        "movpngsfxu": "(PNG, Unix Ayıklayıcısı)",
         "win": "Windows Uygulaması",
         "audacity": "Audacity Projesi",
         "info": "Bilgi",
         "raw": "Raw",
         "other": "Diğer",
-        "movsfxu": "(QuickTime Animasyonu, Unix Ayıklayıcı)",
+        "movsfxu": "(QuickTime Animasyonu, Unix Ayıklayıcısı)",
         "alac": "(Apple Kayıpsız)",
         "unix": "Unix Scripti",
         "unsup": "(desteklenmez)",
         "movsfx": "(QuickTime Animasyonu, Windows Ayıklayıcısı)",
-        "movsfxm": "(QuickTime Animasyonu, Mac OS X Ayıklayıcı)"
+        "movsfxm": "(QuickTime Animasyonu, Mac OS X Ayıklayıcısı)"
     },
     "modal_content": {
         "enter_del_key": "Silme kodunu buraya gir:",
@@ -50,7 +53,7 @@
         "ennuizel": "Kırmızı bir çerçevesi olan butonlar tarayıcın içinde Ennuizel kullanarak ses işleme gerektirmektedir. Tarayıcınıza bağlı olarak, kaydınızı işlemek desteklenmiyor veya iyi bir miktarda RAM kullanıyor olabilir. Eğer herhangi bir sorununuz varsa lütfen farklı bir format seçiniz.",
         "download_done": "İndirme işleminiz tamamlandı ve kısa bir süre içinde başlayacaktır. Kaydınızı hâlâ indirilmeye başlamadıysa, lütfen aşağıdaki butona tıklayın.",
         "duration_fail": "Kayıt uzunluğu alınamadı!",
-        "ennuizel_mobile": "Görünüşe göre mobil bir cihaz kullanıyorsun. Bu işlemi bilgisayar üzerinden yapmanı öneririz. Lütfen herhangi bir sorun ile karşılaşırsan bizi şikayet etme.",
+        "ennuizel_mobile": "Görünüşe göre mobil bir cihaz kullanıyorsun. Bu işlemi bilgisayar üzerinden yapmanı öneririz. Lütfen herhangi bir sorun ile karşılaşırsan bizi şikayet etme!",
         "delete_rec": "Bu kaydı silmek istediğine emin misin? Bu işlem GERİ ALINAMAZ ve kimse işlemi geri almanda sana yardımcı olamaz.",
         "download_already_done": "Kaydınız bu format için işlendi ve kısa bir süre içinde indirilmeye başlayacak. Eğer kaydınız hâlâ indirmeye başlamadıysa, lütfen aşağıdaki butona tıklayın."
     },
@@ -59,7 +62,7 @@
         "fg_color": "Çerçeve Rengi",
         "bg_color": "Arkaplan Rengi",
         "download": "İndir",
-        "format": "Format"
+        "format": "Dosya Formatı"
     },
     "info": {
         "req_by": "Kayıt Sahibi",
@@ -93,16 +96,17 @@
         "avatars": "Profil Fotoğrafları",
         "dl": "İndirilenler",
         "glowers": "Profil Fotoğrafı Görünümleri",
-        "mt": "Çoklu-Parça",
-        "st": "Karışık Tek-Parça",
-        "stsm": "Akıllı Karıştırılmış Tekli-Parça",
-        "mt_other": "Çoklu Parça (diğer formatlar)",
-        "mtsl": "Çoklu-Parça (akıllı sıralama)",
+        "mt": "Multi-Track",
+        "st": "Single-Track Mixed",
+        "stsm": "Single-Track Smart Mix",
+        "mt_other": "Multi-Track (Diğer Formatlar)",
+        "mtsl": "Multi-Track Smart-Leveled",
         "local": "Yerel işleme",
         "misc": "Diğer Çeşitler"
     },
     "footer": {
-        "build": "Sürüm"
+        "build": "Sürüm",
+        "showing_hidden": "(gizli)"
     },
     "processing": "İşleniyor…",
     "reveal": "Göster",
