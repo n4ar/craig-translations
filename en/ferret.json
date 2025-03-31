@@ -12,7 +12,8 @@
     "loading": "Loading…",
     "downloading": "Downloading…",
     "show_all": "Show all",
-    "show_less": "Show less"
+    "show_less": "Show less",
+    "language": "Language"
   },
   "recording": {
     "reveal_duration": "Reveal Duration",
