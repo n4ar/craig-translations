@@ -1,0 +1,50 @@
+{
+  "name": "Türkçe",
+  "common": {
+    "close": "Kapat",
+    "cancel": "İptal et",
+    "delete": "Sil",
+    "download": "İndir",
+    "loading": "Yükleniyor…",
+    "downloading": "Yükleniyor…"
+  },
+  "recording": {
+    "delete": "Kaydı Sil",
+    "recording_id": "Kayıt ID'si",
+    "delete_modal": {
+      "header": "Bu kaydı silmek istediğine emin misin?",
+      "subtext": "Bu işlem GERİ ALINAMAZ ve kimse işlemi geri almanda sana yardımcı olamaz."
+    }
+  },
+  "download": {
+    "sections": {
+      "downloads": "İndirilenler",
+      "avatars": "Profil Fotoğrafları",
+      "mt": "Multi-Track",
+      "st": "Single-Track Mixed",
+      "stsm": "Single-Track Smart Mix",
+      "local": "Yerel işleme"
+    },
+    "format_buttons": {
+      "audacity": "Audacity Projesi",
+      "win_executable": "Windows Uygulaması",
+      "unix_script": "Unix Scripti"
+    },
+    "ennuizel_modal": {
+      "header": "Kırmızı tuşlara dikkat et!",
+      "description": "Kırmızı bir çerçevesi olan butonlar tarayıcın içinde Ennuizel kullanarak ses işleme gerektirmektedir. Tarayıcınıza bağlı olarak, kaydınızı işlemek desteklenmiyor veya iyi bir miktarda RAM kullanıyor olabilir. Eğer herhangi bir sorununuz varsa lütfen farklı bir format seçiniz.",
+      "confirm": "Anladım, kabul ediyorum"
+    }
+  },
+  "avatar_overlays": {
+    "options": {
+      "bg": "Arkaplan Rengi",
+      "fg": "Çerçeve Rengi",
+      "transparent": "Transparan Arkaplan",
+      "format": "Dosya Formatı"
+    }
+  },
+  "footer": {
+    "build": "Sürüm"
+  }
+}

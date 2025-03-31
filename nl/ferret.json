@@ -1,0 +1,50 @@
+{
+  "name": "Nederlands",
+  "common": {
+    "close": "Sluiten",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "download": "Download",
+    "loading": "Laden…",
+    "downloading": "Downloaden…"
+  },
+  "recording": {
+    "delete": "Verwijder Opname",
+    "recording_id": "Opname ID",
+    "delete_modal": {
+      "header": "Weet je het zeker dat je deze opname wilt verwijderen?",
+      "subtext": "Deze actie is NIET TERUGDRAAIBAAR en niemand kan je helpen om het terug te krijgen."
+    }
+  },
+  "download": {
+    "sections": {
+      "downloads": "Downloads",
+      "avatars": "Avatars",
+      "mt": "Multi-lijns",
+      "st": "Enkel-lijns gemixed",
+      "stsm": "Enkel-lijns Slimme Mix",
+      "local": "Lokale Verwerking"
+    },
+    "format_buttons": {
+      "audacity": "Audacity Project",
+      "win_executable": "Windows Applicatie",
+      "unix_script": "Unix Script"
+    },
+    "ennuizel_modal": {
+      "header": "Let op de rode knop!",
+      "description": "Knoppen die een rode rand hebben, moeten de audio verwerken in je browser door gebruik te maken van Ennuizel. Op basis van je browser, kan dit niet werken of gebruikt dit een groot deel van je RAM om door je audio heen te gaan. Als je problemen hebt, kies een ander formaat.",
+      "confirm": "Ik snap het"
+    }
+  },
+  "avatar_overlays": {
+    "options": {
+      "bg": "Achtergrond Kleur",
+      "fg": "Schijn Kleur",
+      "transparent": "Transparante Achtergrond",
+      "format": "Formaat"
+    }
+  },
+  "footer": {
+    "build": "Versie"
+  }
+}
