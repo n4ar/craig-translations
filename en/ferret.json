@@ -67,7 +67,8 @@
       "adobe_audition": "Adobe Audition Session",
       "win_executable": "Windows Executable",
       "mac_script": "Mac Script",
-      "unix_script": "Unix Script"
+      "unix_script": "Unix Script",
+      "other": "Other"
     },
     "modal": {
       "header": "Ready to download?",
