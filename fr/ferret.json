@@ -28,7 +28,8 @@
     "format_buttons": {
       "audacity": "Projet Audacity",
       "win_executable": "Application Windows",
-      "unix_script": "Script Unix"
+      "unix_script": "Script Unix",
+      "other": "Autre"
     },
     "ennuizel_modal": {
       "header": "Fais attention aux boutons rouges !",

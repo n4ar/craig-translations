@@ -28,7 +28,8 @@
     "format_buttons": {
       "audacity": "Проект Audacity",
       "win_executable": "Приложение Windows",
-      "unix_script": "Скрипт Unix"
+      "unix_script": "Скрипт Unix",
+      "other": "Другое"
     },
     "ennuizel_modal": {
       "header": "Остерегайтесь красных кнопок!",

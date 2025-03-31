@@ -28,7 +28,8 @@
     "format_buttons": {
       "audacity": "Праект Audacity",
       "win_executable": "Дадатак Windows",
-      "unix_script": "Скрыпт Unix"
+      "unix_script": "Скрыпт Unix",
+      "other": "Iншы"
     },
     "ennuizel_modal": {
       "header": "Сцеражыцеся чырвоных кнопак!",

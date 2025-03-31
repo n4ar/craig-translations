@@ -28,7 +28,8 @@
     "format_buttons": {
       "audacity": "Audacity Projesi",
       "win_executable": "Windows Uygulaması",
-      "unix_script": "Unix Scripti"
+      "unix_script": "Unix Scripti",
+      "other": "Diğer"
     },
     "ennuizel_modal": {
       "header": "Kırmızı tuşlara dikkat et!",

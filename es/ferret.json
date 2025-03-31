@@ -28,7 +28,8 @@
     "format_buttons": {
       "audacity": "Proyecto de Audacity",
       "win_executable": "Aplicación de Windows",
-      "unix_script": "Script Unix"
+      "unix_script": "Script Unix",
+      "other": "Otros"
     },
     "ennuizel_modal": {
       "header": "¡Cuidado con los botones rojos!",

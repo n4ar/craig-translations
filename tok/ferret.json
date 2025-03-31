@@ -28,7 +28,8 @@
     "format_buttons": {
       "audacity": "lipu pi ilo Audacity",
       "win_executable": "ilo pi nasin Windows",
-      "unix_script": "ilo pi nasin Unix"
+      "unix_script": "ilo pi nasin Unix",
+      "other": "nasin ante"
     },
     "ennuizel_modal": {
       "header": "nena loje li nasa!",

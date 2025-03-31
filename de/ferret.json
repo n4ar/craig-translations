@@ -28,7 +28,8 @@
     "format_buttons": {
       "audacity": "Audacity Projekt",
       "win_executable": "Windows Applikation",
-      "unix_script": "Unix Script"
+      "unix_script": "Unix Script",
+      "other": "Andere"
     },
     "ennuizel_modal": {
       "header": "Achte auf rote Buttons!",

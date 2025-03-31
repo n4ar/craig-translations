@@ -28,7 +28,8 @@
     "format_buttons": {
       "audacity": "Audacity Project",
       "win_executable": "Windows Applicatie",
-      "unix_script": "Unix Script"
+      "unix_script": "Unix Script",
+      "other": "Andere"
     },
     "ennuizel_modal": {
       "header": "Let op de rode knop!",
