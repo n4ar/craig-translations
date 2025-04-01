@@ -38,6 +38,7 @@
     }
   },
   "avatar_overlays": {
+    "name": "Overlay d'avatars",
     "options": {
       "bg": "Couleur de fond",
       "fg": "Couleur de l'éclat",

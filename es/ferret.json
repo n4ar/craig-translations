@@ -38,6 +38,7 @@
     }
   },
   "avatar_overlays": {
+    "name": "Superposiciones de Avatares",
     "options": {
       "bg": "Color de fondo",
       "fg": "Color del resplandor",

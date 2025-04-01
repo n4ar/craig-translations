@@ -95,6 +95,7 @@
       "fail": "Failed to download avatars."
     },
     "avatar_overlays": {
+      "name": "Avatar Overlays",
       "button_name": "Create Avatar Overlays",
       "button_description": "Make avatar overlay assets that can be used in video projects.",
       "help_button": "What's this?",

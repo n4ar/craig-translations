@@ -38,6 +38,7 @@
     }
   },
   "avatar_overlays": {
+    "name": "Avatar-overlays",
     "options": {
       "bg": "Achtergrond Kleur",
       "fg": "Schijn Kleur",
