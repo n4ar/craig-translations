@@ -111,6 +111,7 @@
     }
   },
   "notification": {
+    "body": "Recording for {guild}",
     "job": {
       "complete": "Download Ready",
       "error": "Download Errored",
