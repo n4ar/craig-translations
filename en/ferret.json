@@ -86,7 +86,8 @@
     "ennuizel_modal": {
       "header": "Beware of the red buttons!",
       "description": "Buttons that have a red border use audio processing in your browser using Ennuizel. Depending on your browser, it may be unsupported or take up a good amount of RAM to process your recording. If you have any problems, choose a different format.",
-      "confirm": "I understand"
+      "confirm": "I understand",
+      "selected_format": "Selected Format"
     },
     "avatar_zip": {
       "button_name": "Download Avatars",
