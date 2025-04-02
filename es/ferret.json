@@ -23,7 +23,7 @@
       "mt": "Multi-pista",
       "st": "Mezcla en una pista",
       "stsm": "Mezcla en una pista (Mezcla inteligente)",
-      "local": "Procesamiento local"
+      "local_processing": "Procesamiento local"
     },
     "format_buttons": {
       "audacity": "Proyecto de Audacity",

@@ -23,7 +23,7 @@
       "mt": "ni la jan ante li kalama ante",
       "st": "ni la kalama ante li kama kalama wan",
       "stsm": "ni la kalama ante li wan; ilo li sama e suli pi kalama ale",
-      "local": "ni la ilo sina li nasin e kalama sama wile sina"
+      "local_processing": "ni la ilo sina li nasin e kalama sama wile sina"
     },
     "format_buttons": {
       "audacity": "lipu pi ilo Audacity",

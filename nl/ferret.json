@@ -23,7 +23,7 @@
       "mt": "Multi-lijns",
       "st": "Enkel-lijns gemixed",
       "stsm": "Enkel-lijns Slimme Mix",
-      "local": "Lokale Verwerking"
+      "local_processing": "Lokale Verwerking"
     },
     "format_buttons": {
       "audacity": "Audacity Project",

@@ -23,7 +23,7 @@
       "mt": "Mehrspurig",
       "st": "Einspurig, abgemischt",
       "stsm": "Einspuriger Smart Mix",
-      "local": "Lokales verarbeiten"
+      "local_processing": "Lokales verarbeiten"
     },
     "format_buttons": {
       "audacity": "Audacity Projekt",

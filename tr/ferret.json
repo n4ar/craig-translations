@@ -23,7 +23,7 @@
       "mt": "Multi-Track",
       "st": "Single-Track Mixed",
       "stsm": "Single-Track Smart Mix",
-      "local": "Yerel işleme"
+      "local_processing": "Yerel işleme"
     },
     "format_buttons": {
       "audacity": "Audacity Projesi",

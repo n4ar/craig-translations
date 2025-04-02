@@ -23,7 +23,7 @@
       "mt": "Multi-pistes",
       "st": "Mono-piste mixée",
       "stsm": "Mono-piste Mix Intelligent",
-      "local": "Traitement local"
+      "local_processing": "Traitement local"
     },
     "format_buttons": {
       "audacity": "Projet Audacity",
