@@ -121,7 +121,8 @@
         "r": "Kırmızı kanal",
         "g": "Yeşil kanal",
         "b": "Mavi kanal",
-        "a": "Transparan kanal"
+        "a": "Transparan kanal",
+        "change_to": "Change to"
     },
     "notification": {
         "bell": {
