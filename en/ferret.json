@@ -23,7 +23,7 @@
         "recording_id": "Recording ID",
         "users_recorded": "{count, plural,\n  one {{count, number} User Recorded}\n  other {{count, number} Users Recorded}\n}",
         "recording_date": "Recorded on {date, date, all}",
-        "by_user": "by {user}",
+        "by_user": "{channel} by {user}",
         "via_bot": "via {bot}",
         "delete_modal": {
             "header": "Are you sure you want to delete this recording?",
@@ -44,7 +44,7 @@
         "a": "Alpha channel",
         "hex": "HEX color",
         "without_color": "without color",
-        "change_to": "Change to"
+        "change_to": "Change to {mode}"
     },
     "download": {
         "show_all_formats": "Show all formats",

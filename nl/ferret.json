@@ -96,6 +96,6 @@
         "a": "Alpha kanaal",
         "hex": "HEX kleur",
         "without_color": "zonder kleur",
-        "change_to": "Verander naar"
+        "change_to": "Verander naar {mode}"
     }
 }
