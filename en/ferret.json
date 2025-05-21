@@ -13,7 +13,8 @@
         "downloading": "Downloading…",
         "show_all": "Show all",
         "show_less": "Show less",
-        "language": "Language"
+        "language": "Language",
+        "app": "App"
     },
     "recording": {
         "reveal_duration": "Reveal Duration",
@@ -109,6 +110,11 @@
                 "transparent": "Transparent Background",
                 "format": "Format"
             }
+        },
+        "exclude_user": {
+            "name": "Exclude Users",
+            "count": "{count, plural,\n  one {{count, number} user excluded}\n  other {{count, number} users excluded}\n}",
+            "all_excluded_warning": "At least one user should be included."
         }
     },
     "notification": {
