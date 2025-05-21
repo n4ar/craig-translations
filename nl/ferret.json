@@ -23,7 +23,7 @@
             "subtext": "Deze actie is NIET TERUGDRAAIBAAR en niemand kan je helpen om het terug te krijgen.",
             "delete_key": "Verwijder Sleutel",
             "delete_key_invalid": "De verwijder sleutel die je hebt opgegeven is ongeldig.",
-            "delete_key_hint": "Je vergeet sleutel kan gevonden worden in je DMs of als je het /recordings commando uitvoerd.",
+            "delete_key_hint": "Je vergeet sleutel kan gevonden worden in je DMs of als je het {command} commando uitvoerd.",
             "confirm": "Ja, verwijder deze opname"
         },
         "reveal_duration": "Laat duur zien",

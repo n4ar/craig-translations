@@ -30,7 +30,7 @@
             "subtext": "This action is IRREVERSABLE and nobody can help you get it back.",
             "delete_key": "Delete Key",
             "delete_key_invalid": "The delete key you provided is invalid.",
-            "delete_key_hint": "Your delete key can be found in your DMs or when running the /recordings command.",
+            "delete_key_hint": "Your delete key can be found in your DMs or when running the {command} command.",
             "confirm": "Yes, delete this recording"
         }
     },

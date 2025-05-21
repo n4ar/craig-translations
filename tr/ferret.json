@@ -23,7 +23,7 @@
             "subtext": "Bu işlem GERİ ALINAMAZ ve kimse işlemi geri almanda sana yardımcı olamaz.",
             "delete_key": "Silme Anahtarı",
             "delete_key_invalid": "Sunduğun silme anahtarı geçersiz.",
-            "delete_key_hint": "Silme anahtarın DMlerinde veya /recordings komutunda bulunabilir.",
+            "delete_key_hint": "Silme anahtarın DMlerinde veya {command} komutunda bulunabilir.",
             "confirm": "Evet, kaydı sil"
         },
         "by_user": "{user} tarafından {channel}",
