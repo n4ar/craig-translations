@@ -67,7 +67,7 @@
             "header": "Bereid om te downloaden?",
             "subtext": "Je download zal worden geleverd in de vorm van een {file} bestand.",
             "description": {
-                "project": "Dit formaat is geformateerd voor de software {software}. Om dit bestand te openen, pak het ZIP bestand uit en open het project door het {file} bestand te openen."
+                "project": "Dit bestand is bedoelt om te gebruiken bij {software}. Om dit bestand te openen, pak het ZIP bestand uit en open het project door het {file} bestand te openen."
             }
         },
         "avatar_overlays": {
