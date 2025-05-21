@@ -179,6 +179,8 @@
         "no_job": "This recording currently does not have a running processing task.",
         "invalid_format": "An invalid format was provided.",
         "feature_unavailable": "You requested to use a feature that can't be used on this recording.",
+        "invalid_track": "An invalid track was referenced.",
+        "no_tracks_given": "At least one track should be able to be processed.",
         "invalid_delete_key": "The given delete key was invalid."
     },
     "footer": {
