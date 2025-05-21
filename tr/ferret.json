@@ -26,7 +26,7 @@
             "delete_key_hint": "Silme anahtarın DMlerinde veya /recordings komutunda bulunabilir.",
             "confirm": "Evet, kaydı sil"
         },
-        "by_user": "{user} tarafından",
+        "by_user": "{user} tarafından {channel}",
         "reveal_duration": "Süreyi Göster",
         "expires_soon": "Süresi Yakında Doluyor",
         "expires_in": "{expiry} içinde süresi doluyor",
@@ -122,7 +122,7 @@
         "g": "Yeşil kanal",
         "b": "Mavi kanal",
         "a": "Transparan kanal",
-        "change_to": "Change to {mode}"
+        "change_to": "{mode}'ye çevir"
     },
     "notification": {
         "bell": {
