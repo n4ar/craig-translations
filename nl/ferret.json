@@ -31,7 +31,7 @@
         "expires_in": "Verloopt {expiry}",
         "users_recorded": "{count, plural,\n  one {{count, number} Gebruiker Opgenomen}\n  other {{count, number} Gebruikers Opgenomen}\n}",
         "recording_date": "Opgenomen op {date, date, all}",
-        "by_user": "door {user}",
+        "by_user": "{channel} door {user}",
         "via_bot": "via {bot}"
     },
     "download": {
