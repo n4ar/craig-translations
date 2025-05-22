@@ -140,7 +140,7 @@
         "download_complete": "Your download has finished processing and should prompt to download shortly! If you did not get prompted to download your recording, click the \"Download\" button below.",
         "cancelled_job": "Cancelled download.",
         "removed_job": "Removed download.",
-        "too_many_connections": "Too many users are viewing this job right now. Live updates are disabled; polling for updates instead.",
+        "too_many_connections": "Too many users are viewing this recording right now. Live updates are disabled and updates may take longer to show up.",
         "polling_warning": "Changes to this process may not be immediate as there are too many users viewing it.",
         "status": {
             "queued": "Queued",
