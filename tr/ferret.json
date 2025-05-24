@@ -13,7 +13,8 @@
         "nevermind": "Vazgeç",
         "show_all": "Hepsini göster",
         "show_less": "Daha az göster",
-        "language": "Dil"
+        "language": "Dil",
+        "app": "UYG"
     },
     "recording": {
         "delete": "Kaydı Sil",
@@ -97,6 +98,11 @@
             "button_name": "Avatarları İndir",
             "button_description": "Bu konuşmada olan herkesin avatarlarını bir ZIP dosyasına indir.",
             "success": "Avatarlar indirildi."
+        },
+        "exclude_user": {
+            "name": "Kullanıcı Hariç Et",
+            "all_excluded_warning": "En az bir kullanıcı dahil edilmeli.",
+            "count": "{count, plural,\n  one {{count, number} kullanıcı dahil edilmiyor}\n  other {{count, number} kullanıcı dahil edilmiyor}\n}"
         }
     },
     "avatar_overlays": {
@@ -171,7 +177,9 @@
             "queued": "{time} önce sıraya alındı",
             "processed": "{time} önce işlendi",
             "started": "{time} önce başlandı"
-        }
+        },
+        "too_many_connections": "Şu anda çok fazla kullanıcı bu kaydı görüntülüyor. Canlı güncellemeler devre dışı bırakılmıştır ve güncellemelerin gösterilmesi daha uzun sürebilir.",
+        "polling_warning": "Çok fazla kullanıcı tarafından görüntülendiği için bu süreçteki değişiklikler hemen yapılamayabilir."
     },
     "errors": {
         "no_key": "Bir anahtar gerekli.",
@@ -190,6 +198,8 @@
         "generic": {
             "duration": "Kaydın süresini öğrenmeye çalışırken bir hata oluştu, daha sonra tekrar dene."
         },
-        "invalid_delete_key": "Sağlanan silme anahtarı geçersiz."
+        "invalid_delete_key": "Sağlanan silme anahtarı geçersiz.",
+        "invalid_track": "Geçersiz bir parça referans alındı.",
+        "no_tracks_given": "En az bir parça işlenebilmelidir."
     }
 }
