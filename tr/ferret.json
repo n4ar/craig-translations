@@ -30,14 +30,14 @@
         "by_user": "{user} tarafından {channel}",
         "reveal_duration": "Süreyi Göster",
         "expires_soon": "Süresi Yakında Doluyor",
-        "expires_in": "{expiry} içinde süresi doluyor",
+        "expires_in": "{expiry} süresi doluyor",
         "users_recorded": "{count, plural,\n  other {{count, number} Kullanıcı Kaydedildi}\n}",
         "recording_date": "{date, date, all} tarihinde kaydedildi",
         "via_bot": "{bot} ile"
     },
     "download": {
         "sections": {
-            "downloads": "İndirilenler",
+            "downloads": "İndirmeler",
             "avatars": "Avatarlar",
             "mt": "Çoklu Parça",
             "st": "Tek Parça",
