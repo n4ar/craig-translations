@@ -1,15 +1,73 @@
 {
     "options": {
         "continuous": {
-            "desc": "VAD(音声検出)をオフにすれば、あなたのマイクが拾う音をすべて録音できます。",
-            "title": "連続モード"
+            "desc": "VADを無効にして、マイクが拾うすべての音を録音します。",
+            "title": "連続モード",
+            "disabled": "お使いのサーバーでは継続モードは利用できません。この機能を利用するにはPatronになる必要があります。"
         },
         "flac": {
-            "desc": "FLACに直接録音すれば、個別に録音したときとほぼ同じ音質になります。",
-            "disabled": "あなたのサーバーではFLACモードは利用できません。patronになることで機能が開放できます。"
+            "desc": "FLACで直接録音すれば、ほぼまるで個別に録音したかのようなクオリティになります。",
+            "disabled": "お使いのサーバーではFLACモードは利用できません。この機能を利用するにはPatronになる必要があります。",
+            "title": "FLACで録音"
+        },
+        "nr": {
+            "title": "ノイズサプレッション",
+            "desc": "マイク入力からバックグラウンドノイズを圧縮します。設定は録音中に変更できます。"
         }
     },
     "_local_name": "日本語",
-    "craigWebapp": "Craigウェブアプリ",
-    "back": "戻る"
+    "craigWebapp": "Craig Webアプリ",
+    "back": "戻る",
+    "onboarding": {
+        "errors": {
+            "audioPerm": "音声権限のリクエスト中にエラーが発生しました。",
+            "badNick": "ニックネームが誤っています。",
+            "badServer": "サーバーが間違っています 。"
+        },
+        "join": "入室",
+        "joining": "入室中",
+        "nickLabel": "なんとお呼びしましょうか？",
+        "requesting": "権限をリクエスト中.…",
+        "record": "録音",
+        "recordDesc": "ユーザーとして録音セッションに入室する",
+        "monitor": "モニター",
+        "monitorDesc": "録音されている人を確認する",
+        "noAudio": {
+            "title": "マイクが無効です！",
+            "desc": "URLバーの横にある鍵アイコンからマイクを有効にし、ページを再読み込みしてください。"
+        },
+        "nickPlaceholder": "ニックネーム"
+    },
+    "modal": {
+        "disconnectedBody": "サーバへの接続が切れました。",
+        "disconnected": "退室しました。"
+    },
+    "server": {
+        "local": "ローカル",
+        "custom": "カスタム"
+    },
+    "login": {
+        "connect": "接続",
+        "recId": "レコーディングID",
+        "server": "サーバー",
+        "what": "ウェブアプリについて",
+        "home": "ホームページ",
+        "privacy": "プライバシーポリシー",
+        "tos": "利用規約",
+        "webKey": "Webアプリキー",
+        "errors": {
+            "notFound": "この録音は見つかりませんでした。録音設定でウェブアプリ機能が有効化されているか確認してください。",
+            "invalidKey": "この録音へのWebアプリキーが無効です。",
+            "noID": "レコーディングIDが入力されませんでした。",
+            "noKey": "Webアプリキーが入力されませんでした。"
+        }
+    },
+    "rec": {
+        "noUsersConnected": "だれも接続していません.…",
+        "connectedAs": "以下として接続:",
+        "mute": "ミュート",
+        "unmute": "ミュート解除",
+        "disconnect": "退室",
+        "microphone": "マイク"
+    }
 }
