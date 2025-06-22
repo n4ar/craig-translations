@@ -47,6 +47,8 @@
     }
   },
   "footer": {
-    "build": "Version"
+    "build": "Version",
+    "tos": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité"
   }
 }

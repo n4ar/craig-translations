@@ -116,7 +116,9 @@
     "footer": {
         "build": "Sürüm",
         "support_server": "destek sunucusu",
-        "beta": "Bu sayfa indirme sayfasının bir deneme sürümüdür! Hata raporlamak için {support_server}'na katılın."
+        "beta": "Bu sayfa indirme sayfasının bir deneme sürümüdür! Hata raporlamak için {support_server}'na katılın.",
+        "tos": "Hizmet Şartları",
+        "privacy": "Güvenlik Politikası"
     },
     "color_picker": {
         "hex": "HEX rengi",

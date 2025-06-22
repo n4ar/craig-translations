@@ -84,7 +84,9 @@
         }
     },
     "footer": {
-        "build": "Versie"
+        "build": "Versie",
+        "tos": "Servicevoorwaarden",
+        "privacy": "Privacybeleid"
     },
     "color_picker": {
         "h": "Kleur kanaal",

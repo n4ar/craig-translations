@@ -194,6 +194,8 @@
     "footer": {
         "build": "Build",
         "support_server": "support server",
-        "beta": "This is a beta version of the new download page! Join the {support_server} to report issues."
+        "beta": "This is a beta version of the new download page! Join the {support_server} to report issues.",
+        "privacy": "Privacy Policy",
+        "tos": "Terms of Service"
     }
 }
