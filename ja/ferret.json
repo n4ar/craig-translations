@@ -122,7 +122,9 @@
         "exclude_user": {
             "name": "除外されたユーザー",
             "all_excluded_warning": "最低でも1人が含まれている必要があります。",
-            "count": "{count, number}人が除外されています"
+            "count": "{count, number}人が除外されています",
+            "exclude_from_normalization": "ノーマライズからユーザーを除外",
+            "all_excluded_normalization_warning": "もし誰かをノーマライズから除外したければ、ノーマライズをオフにするだけです！"
         },
         "active_download_description": "ダウンロードは処理中です。再度ダウンロードする前には完了します。"
     },
