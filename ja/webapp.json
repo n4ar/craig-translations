@@ -40,7 +40,23 @@
     },
     "modal": {
         "disconnectedBody": "サーバへの接続が切れました。",
-        "disconnected": "退室しました。"
+        "disconnected": "退室しました。",
+        "reason": "理由",
+        "reload": "再読み込み",
+        "errors": {
+            "CLOSED": "サーバーとの接続が閉じられました。",
+            "SHARD_CLOSED": "予期せず接続が切断されました。",
+            "RECORDING_ENDED": "録音は終了しました。",
+            "INVALID": "不明な原因によりサーバーでデータを処理できませんでした。",
+            "INVALID_USERNAME": "サーバーに送信されたユーザーネームが無効です",
+            "INVALID_CONNECTION_TYPE": "サーバーに送信された接続タイプが無効です",
+            "INVALID_MESSAGE": "不明な原因により、サーバーでデータを処理できませんでした。",
+            "INVALID_FLAGS": "サーバーに送信されたフラッグが無効です",
+            "INVALID_ID": "サーバーに送信されたIDが無効です",
+            "INVALID_TOKEN": "サーバーに送信されたトークンが無効です",
+            "NOT_FOUND": "録音はサーバーと接続されていません",
+            "ALREADY_CONNECTED": "この録音には過剰な人数が接続しています"
+        }
     },
     "server": {
         "local": "ローカル",
@@ -68,6 +84,9 @@
         "mute": "ミュート",
         "unmute": "ミュート解除",
         "disconnect": "退室",
-        "microphone": "マイク"
-    }
+        "microphone": "マイク",
+        "viaWeb": "(Webアプリ上)",
+        "continuous": "継続"
+    },
+    "in": ":"
 }
