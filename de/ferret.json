@@ -46,6 +46,8 @@
     }
   },
   "footer": {
-    "build": "Version"
+    "build": "Version",
+    "tos": "AGB",
+    "privacy": "Datenschutzbestimmungen"
   }
 }

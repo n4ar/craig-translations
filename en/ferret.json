@@ -13,7 +13,8 @@
         "downloading": "Downloading…",
         "show_all": "Show all",
         "show_less": "Show less",
-        "language": "Language"
+        "language": "Language",
+        "app": "App"
     },
     "recording": {
         "reveal_duration": "Reveal Duration",
@@ -23,14 +24,14 @@
         "recording_id": "Recording ID",
         "users_recorded": "{count, plural,\n  one {{count, number} User Recorded}\n  other {{count, number} Users Recorded}\n}",
         "recording_date": "Recorded on {date, date, all}",
-        "by_user": "by {user}",
+        "by_user": "{channel} by {user}",
         "via_bot": "via {bot}",
         "delete_modal": {
             "header": "Are you sure you want to delete this recording?",
             "subtext": "This action is IRREVERSABLE and nobody can help you get it back.",
             "delete_key": "Delete Key",
             "delete_key_invalid": "The delete key you provided is invalid.",
-            "delete_key_hint": "Your delete key can be found in your DMs or when running the /recordings command.",
+            "delete_key_hint": "Your delete key can be found in your DMs or when running the {command} command.",
             "confirm": "Yes, delete this recording"
         }
     },
@@ -44,7 +45,7 @@
         "a": "Alpha channel",
         "hex": "HEX color",
         "without_color": "without color",
-        "change_to": "Change to"
+        "change_to": "Change to {mode}"
     },
     "download": {
         "show_all_formats": "Show all formats",
@@ -79,7 +80,9 @@
                 "mix": "All audio tracks are mixed into a single {file} file.",
                 "executable": "Craig will create a portable executable where your audio will be packed into. Running the executable will allow you to process the audio data however you'd like. Note that as this executable is not signed, it may give false positives to anti-virus programs.",
                 "script": "Craig will create an audio processor script that allows you to process your audio however you'd like. Extract the contents of the ZIP file before running the script.",
-                "linux_script": "Craig will create an audio processor script that allows you to process your audio however you'd like. Extract the contents of the ZIP file before running the script. You will need to have FFMpeg installed on your device."
+                "linux_script": "Craig will create an audio processor script that allows you to process your audio however you'd like. Extract the contents of the ZIP file before running the script. You will need to have FFMpeg installed on your device.",
+                "raw": "This downloads the raw.dat file that is usually included with every multi-track download. This is the raw Opus data received by Craig. Most audio programs may not properly support this.",
+                "infotxt": "This downloads the info.txt file that is usually included with every multi-track download. This gives general information about the recording."
             },
             "normalize_audio": "Normalize audio"
         },
@@ -109,6 +112,13 @@
                 "transparent": "Transparent Background",
                 "format": "Format"
             }
+        },
+        "exclude_user": {
+            "name": "Exclude Users",
+            "exclude_from_normalization": "Exclude Users from Normalization",
+            "count": "{count, plural,\n  one {{count, number} user excluded}\n  other {{count, number} users excluded}\n}",
+            "all_excluded_warning": "At least one user should be included.",
+            "all_excluded_normalization_warning": "If you want to exclude everyone from normalization, just turn normalization off!"
         }
     },
     "notification": {
@@ -134,6 +144,8 @@
         "download_complete": "Your download has finished processing and should prompt to download shortly! If you did not get prompted to download your recording, click the \"Download\" button below.",
         "cancelled_job": "Cancelled download.",
         "removed_job": "Removed download.",
+        "too_many_connections": "Too many users are viewing this recording right now. Live updates are disabled and updates may take longer to show up.",
+        "polling_warning": "Changes to this process may not be immediate as there are too many users viewing it.",
         "status": {
             "queued": "Queued",
             "cancelled": "Download Cancelled",
@@ -177,11 +189,15 @@
         "no_job": "This recording currently does not have a running processing task.",
         "invalid_format": "An invalid format was provided.",
         "feature_unavailable": "You requested to use a feature that can't be used on this recording.",
+        "invalid_track": "An invalid track was referenced.",
+        "no_tracks_given": "At least one track should be able to be processed.",
         "invalid_delete_key": "The given delete key was invalid."
     },
     "footer": {
         "build": "Build",
         "support_server": "support server",
-        "beta": "This is a beta version of the new download page! Join the {support_server} to report issues."
+        "beta": "This is a beta version of the new download page! Join the {support_server} to report issues.",
+        "privacy": "Privacy Policy",
+        "tos": "Terms of Service"
     }
 }

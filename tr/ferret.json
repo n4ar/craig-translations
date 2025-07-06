@@ -13,7 +13,8 @@
         "nevermind": "Vazgeç",
         "show_all": "Hepsini göster",
         "show_less": "Daha az göster",
-        "language": "Dil"
+        "language": "Dil",
+        "app": "UYG"
     },
     "recording": {
         "delete": "Kaydı Sil",
@@ -23,20 +24,20 @@
             "subtext": "Bu işlem GERİ ALINAMAZ ve kimse işlemi geri almanda sana yardımcı olamaz.",
             "delete_key": "Silme Anahtarı",
             "delete_key_invalid": "Sunduğun silme anahtarı geçersiz.",
-            "delete_key_hint": "Silme anahtarın DMlerinde veya /recordings komutunda bulunabilir.",
+            "delete_key_hint": "Silme anahtarın DMlerinde veya {command} komutunda bulunabilir.",
             "confirm": "Evet, kaydı sil"
         },
-        "by_user": "{user} tarafından",
+        "by_user": "{user} tarafından {channel}",
         "reveal_duration": "Süreyi Göster",
         "expires_soon": "Süresi Yakında Doluyor",
-        "expires_in": "{expiry} içinde süresi doluyor",
+        "expires_in": "{expiry} süresi doluyor",
         "users_recorded": "{count, plural,\n  other {{count, number} Kullanıcı Kaydedildi}\n}",
         "recording_date": "{date, date, all} tarihinde kaydedildi",
         "via_bot": "{bot} ile"
     },
     "download": {
         "sections": {
-            "downloads": "İndirilenler",
+            "downloads": "İndirmeler",
             "avatars": "Avatarlar",
             "mt": "Çoklu Parça",
             "st": "Tek Parça",
@@ -97,6 +98,11 @@
             "button_name": "Avatarları İndir",
             "button_description": "Bu konuşmada olan herkesin avatarlarını bir ZIP dosyasına indir.",
             "success": "Avatarlar indirildi."
+        },
+        "exclude_user": {
+            "name": "Kullanıcı Hariç Et",
+            "all_excluded_warning": "En az bir kullanıcı dahil edilmeli.",
+            "count": "{count, plural,\n  one {{count, number} kullanıcı dahil edilmiyor}\n  other {{count, number} kullanıcı dahil edilmiyor}\n}"
         }
     },
     "avatar_overlays": {
@@ -110,7 +116,9 @@
     "footer": {
         "build": "Sürüm",
         "support_server": "destek sunucusu",
-        "beta": "Bu sayfa indirme sayfasının bir deneme sürümüdür! Hata raporlamak için {support_server}'na katılın."
+        "beta": "Bu sayfa indirme sayfasının bir deneme sürümüdür! Hata raporlamak için {support_server}'na katılın.",
+        "tos": "Hizmet Şartları",
+        "privacy": "Güvenlik Politikası"
     },
     "color_picker": {
         "hex": "HEX rengi",
@@ -122,7 +130,7 @@
         "g": "Yeşil kanal",
         "b": "Mavi kanal",
         "a": "Transparan kanal",
-        "change_to": "Change to"
+        "change_to": "{mode}'ye çevir"
     },
     "notification": {
         "bell": {
@@ -171,7 +179,9 @@
             "queued": "{time} önce sıraya alındı",
             "processed": "{time} önce işlendi",
             "started": "{time} önce başlandı"
-        }
+        },
+        "too_many_connections": "Şu anda çok fazla kullanıcı bu kaydı görüntülüyor. Canlı güncellemeler devre dışı bırakılmıştır ve güncellemelerin gösterilmesi daha uzun sürebilir.",
+        "polling_warning": "Çok fazla kullanıcı tarafından görüntülendiği için bu süreçteki değişiklikler hemen yapılamayabilir."
     },
     "errors": {
         "no_key": "Bir anahtar gerekli.",
@@ -190,6 +200,8 @@
         "generic": {
             "duration": "Kaydın süresini öğrenmeye çalışırken bir hata oluştu, daha sonra tekrar dene."
         },
-        "invalid_delete_key": "Sağlanan silme anahtarı geçersiz."
+        "invalid_delete_key": "Sağlanan silme anahtarı geçersiz.",
+        "invalid_track": "Geçersiz bir parça referans alındı.",
+        "no_tracks_given": "En az bir parça işlenebilmelidir."
     }
 }

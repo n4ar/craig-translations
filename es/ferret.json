@@ -47,6 +47,8 @@
     }
   },
   "footer": {
-    "build": "Revisión"
+    "build": "Revisión",
+    "privacy": "Política de privacidad",
+    "tos": "Terminos de servicio"
   }
 }

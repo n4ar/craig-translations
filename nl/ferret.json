@@ -23,7 +23,7 @@
             "subtext": "Deze actie is NIET TERUGDRAAIBAAR en niemand kan je helpen om het terug te krijgen.",
             "delete_key": "Verwijder Sleutel",
             "delete_key_invalid": "De verwijder sleutel die je hebt opgegeven is ongeldig.",
-            "delete_key_hint": "Je vergeet sleutel kan gevonden worden in je DMs of als je het /recordings commando uitvoerd.",
+            "delete_key_hint": "Je vergeet sleutel kan gevonden worden in je DMs of als je het {command} commando uitvoerd.",
             "confirm": "Ja, verwijder deze opname"
         },
         "reveal_duration": "Laat duur zien",
@@ -31,7 +31,7 @@
         "expires_in": "Verloopt {expiry}",
         "users_recorded": "{count, plural,\n  one {{count, number} Gebruiker Opgenomen}\n  other {{count, number} Gebruikers Opgenomen}\n}",
         "recording_date": "Opgenomen op {date, date, all}",
-        "by_user": "door {user}",
+        "by_user": "{channel} door {user}",
         "via_bot": "via {bot}"
     },
     "download": {
@@ -67,7 +67,7 @@
             "header": "Bereid om te downloaden?",
             "subtext": "Je download zal worden geleverd in de vorm van een {file} bestand.",
             "description": {
-                "project": "Dit formaat is geformateerd voor de software {software}. Om dit bestand te openen, pak het ZIP bestand uit en open het project door het {file} bestand te openen."
+                "project": "Dit bestand is bedoelt om te gebruiken bij {software}. Om dit bestand te openen, pak het ZIP bestand uit en open het project door het {file} bestand te openen."
             }
         },
         "avatar_overlays": {
@@ -84,7 +84,9 @@
         }
     },
     "footer": {
-        "build": "Versie"
+        "build": "Versie",
+        "tos": "Servicevoorwaarden",
+        "privacy": "Privacybeleid"
     },
     "color_picker": {
         "h": "Kleur kanaal",
@@ -96,6 +98,6 @@
         "a": "Alpha kanaal",
         "hex": "HEX kleur",
         "without_color": "zonder kleur",
-        "change_to": "Verander naar"
+        "change_to": "Verander naar {mode}"
     }
 }
